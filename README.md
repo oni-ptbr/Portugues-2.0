@@ -18,11 +18,11 @@ Se isso ocorrer, você pode corrigir o erro reinstalando seu jogo, deletando a p
 
 - **Windows:**  
   Apague a pasta  
-  `C:\User\SEU_USUÁRIO\Documentos\Klei\OxygenNotIncluded\mods\Steam`
+  `C:\User\SEU_USUARIO\Documentos\Klei\OxygenNotIncluded\mods\Steam`
 
 - **Linux:**  
   Apague a pasta  
-  `/home/SEU_USUÁRIO/.config/unity3d/Klei/Oxygen Not Included/mods/Steam`
+  `/home/SEU_USUARIO/.config/unity3d/Klei/Oxygen Not Included/mods/Steam`
 
 Ou fazendo uma combinação das duas coisas.
 

@@ -1,5 +1,5 @@
 ## Changelog
-### v0.3.1-beta | 17.07.25
+### v0.4.0-beta | 17.07.25
 - Revisão e correções de tradução, inclusão da atualização de 17.07.25.
 
 ### v0.3.0-beta | 22.06.25

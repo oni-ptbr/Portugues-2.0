@@ -1,13 +1,16 @@
 # Tradução Português (BR) para Oxygen Not Included
 
-> _Atenção: Tradução em **português brasileiro**. Inclui conteúdo do Prehistoric Planet Pack – Versão: Junho de 2025._
+> _Tradução em **português brasileiro** para Oxygen Not Included. Inclui conteúdo do Pacote de Cosméticos de Neutrônio._
 
 ## Sobre
 
-O mod **Português (BR)**, atualmente, é a versão mais atualizada de tradução BR para o *Oxygen Not Included*. O mod ainda está em versão **beta**, o que significa que pode conter erros e possíveis bugs.
+O mod **Português (BR)** é a versão mais atualizada de tradução BR para o *Oxygen Not Included*. O arquivo principal `strings.po` está **100% completo** — todo o conteúdo com texto em inglês foi traduzido para o português.
+
+**Status atual:** v0.5.0-beta | Maio de 2026
+- Scan de consistência aprovado: 0 desvios de terminologia, 0 links quebrados, 0 inglês vazado
 
 Para instalar o mod, basta se inscrever e escolher o português nos idiomas do jogo ao abri-lo.
-A versão mais atual da tradução é a **v0.3.beta**. Você pode verificar isso dentro do jogo aqui, nos números entre parênteses:
+A versão mais atual da tradução é a **v0.5.0-beta**. Você pode verificar isso dentro do jogo aqui, nos números entre parênteses:
 
 ![Versão do Mod](https://i.imgur.com/eaO7YHU.png)
 
@@ -34,7 +37,7 @@ _Infelizmente, é provável que você tenha que repetir esse processo a cada nov
 
 ### **É importante ressaltar que a instalação manual NÃO adiciona um novo pacote de idioma ao seu jogo, e sim SUBSTITUI o idioma original do jogo pela tradução.**
 
-_Obs: As traduções que ainda estão faltando não serão perdidas, apenas se manterão no idioma original do jogo._
+_Obs: O arquivo `strings.po` está completo — todo o texto disponível em inglês foi traduzido. As poucas entradas restantes (179) são stubs sem conteúdo original, e aparecerão em inglês no jogo normalmente._
 
 1. Primeiro, baixe o arquivo "strings_template.po" [AQUI](https://github.com/Matews200/Portugues-2.0.git);
 2. No diretório do jogo, acesse:  

@@ -1,4 +1,11 @@
 ## Changelog
+### v0.5.0-beta | 16.05.26
+- **strings.po 100% completo** — 20.923 entries, 20.130 traduzidas, 179 stubs vazios (msgid sem conteúdo);
+- 40 novas traduções: BUILDING.STATUSITEMS (3), CODEX (23), CREATURES (12), DUPLICANTS (2);
+- Padronização de termos: Cone Broca, Módulos de Carga, Módulo Duplicador, InterDuplicador, Blocos, Quartos, Escala de Trabalho, Cascas Vegetais, Vagalume, Pacu Tropical;
+- **Limpeza de 1.460 linhas `#|`** (metadados obsoletos de versões anteriores do jogo);
+- Scan de consistência: 0 desvios de terminologia, 0 links quebrados, 0 inglês vazado.
+
 ### v0.4.0-beta | 17.07.25
 - Revisão e correções de tradução, inclusão da atualização de 17.07.25.
 

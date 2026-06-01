@@ -1,4 +1,16 @@
 ## Changelog
+### v0.6.0-beta | 31.05.26
+- **102 traduções novas:** 52 skins DLC Aquatic (Atmo Suits, Clothing, Balloon, Building, Gen/Light, Storage, Monument), 8 LIQUID...EFFECT (Gás→Líquido), 2 correções individuais (RUBBERBOOTS, LARGEELECTROBANKDISCHARGER), 2 traduções novas (FROZENPHYTOOIL, KITCHENREFRIGERATOR), 39 CODEX EMAILHEADER (`</color>`), 1 entry órfã (ATMO_SHOES_DIVING_TAN);
+- **95 fuzzy flags limpas** — de 99 para 4 (todos placeholders BLUEPRINTS intencionais);
+- **7 bugs de renderização corrigidos:** tags `</link>`, `</color>`, `<style>` quebradas ou faltantes;
+- **15 pontos finais restaurados** — consistência EN/PT-BR;
+- **5 links `<link>` restaurados** em GLASSEXTERIORWALL, LAUNCHPAD, LIQUIDCONDUIT sensors;
+- **Terminologia atualizada:** "Torre Alga" → "Algatorre", "Cria de Cascóreo" → "Cascórinho", "Traje Aquático" → "Aqua-Traje";
+- **Regra de Piping registrada:** Liquid Pipe → Cano, Gas Pipe → Tubo;
+- **Sincronizado com POT oficial** da Klei (21.246 entries);
+- Correção de bug Proton/Linux (mod lendo de caminho errado);
+- Correção de line endings (`\r\n` → `\n`) em mod.yaml.
+
 ### v0.5.0-beta | 16.05.26
 - **strings.po 100% completo** — 20.923 entries, 20.130 traduzidas, 179 stubs vazios (msgid sem conteúdo);
 - 40 novas traduções: BUILDING.STATUSITEMS (3), CODEX (23), CREATURES (12), DUPLICANTS (2);

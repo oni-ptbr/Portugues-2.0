@@ -1,4 +1,12 @@
 ## Changelog
+### v0.6.1-beta | 01.06.26
+- **176 fuzzy flags eliminadas** — de 175 para 0 (zero fuzzy ativo);
+- **Atualização pós-patch da Klei:** re-traduzidas 101 entradas afetadas por renomeações de blueprints e reestruturações;
+- **Terminologia refinada:** "Algatorre" → "Algaime" (alga + andaime), "Piso de Borracha" → "Bloco de Borracha", "Cadeira de Praia" → nomes temáticos (Bicolume, Luluzente, Ouriço);
+- **176 traduções novas/corrigidas:** WALLS AQUA/NAUTICAL/SEA/WAVES (41), OUTFIT (3), ELEGANTBED (3), BEACH_CHAIR (1), FINDING_MINNOW (10), BUILDINGS (5), POPUPS (6), BLUEPRINTS diversos (27), critter descriptions (19), status items (16);
+- **Placeholder `{Rate}` → `{Taxa}` corrigido** — placeholder nunca deve ser traduzido;
+- Scan de validação: 0 placeholders traduzidos, 0 tags quebradas, 0 pontuação inconsistente.
+
 ### v0.6.0-beta | 31.05.26
 - **102 traduções novas:** 52 skins DLC Aquatic (Atmo Suits, Clothing, Balloon, Building, Gen/Light, Storage, Monument), 8 LIQUID...EFFECT (Gás→Líquido), 2 correções individuais (RUBBERBOOTS, LARGEELECTROBANKDISCHARGER), 2 traduções novas (FROZENPHYTOOIL, KITCHENREFRIGERATOR), 39 CODEX EMAILHEADER (`</color>`), 1 entry órfã (ATMO_SHOES_DIVING_TAN);
 - **95 fuzzy flags limpas** — de 99 para 4 (todos placeholders BLUEPRINTS intencionais);

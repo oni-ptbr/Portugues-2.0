@@ -131,3 +131,11 @@
 
 ### v0.0.1-alpha | 21.04.24
 - Primeira versão: 22% do jogo traduzido.
+
+### v0.6.2 | 07.06.26
+- **Correção FROZENPHYTOOIL.DESC** — "Ovoleno Congelado" → "Óleo Fito Congelado" (texto completamente errado)
+- **Removido texto extra** em MILKINGSTATION.EFFECT
+- **Corrigidos metadados PO** em 2 entries corrompidas (MINNOW_IMPERATIVE_POI_A, NEWBUILDCATEGORIES)
+- **Corrigidos `\n`** em 2 entries (CRITTERDRINKABLE_DESC, MILKINGSTATION.EFFECT)
+- **Regras atualizadas:** nunca adicionar texto extra, nunca copiar metadados PO
+- **Varredura completa** do arquivo — 68 issues analisadas, 6 reais corrigidas, 62 falsos positivos

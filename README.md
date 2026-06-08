@@ -15,7 +15,7 @@ O mod **Português (BR)** é a versão mais atualizada de tradução BR para o *
 Para instalar o mod, basta se inscrever e escolher o português nos idiomas do jogo ao abri-lo.
 A versão mais atual da tradução é a **v0.6.0-beta**. Você pode verificar isso dentro do jogo aqui, nos números entre parênteses:
 
-![Versão do Mod](https://i.imgur.com/K7NF4Cb.png)
+![Versão do Mod](https://i.imgur.com/9S3sY3T.png)
 
 ## Meu jogo não atualiza para a versão atual da tradução 😓
 

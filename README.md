@@ -6,7 +6,7 @@
 
 O mod **Português (BR)** é a versão mais atualizada de tradução BR para o *Oxygen Not Included*. O arquivo principal `strings.po` está **100% completo** — todo o conteúdo com texto em inglês foi traduzido para o português.
 
-**Status atual:** v0.6.1-beta | Junho de 2026
+**Status atual:** v0.6.2 | Junho de 2026
 - 21.054 entries traduzidas, 248 stubs vazios (Klei), 0 fuzzy
 - DLC Aquatic (beta) traduzida: 278 entries novas/corrigidas
 - Scan de consistência aprovado: 0 desvios de terminologia, 0 links quebrados, 0 placeholders traduzidos

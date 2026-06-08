@@ -139,3 +139,13 @@
 - **Corrigidos `\n`** em 2 entries (CRITTERDRINKABLE_DESC, MILKINGSTATION.EFFECT)
 - **Regras atualizadas:** nunca adicionar texto extra, nunca copiar metadados PO
 - **Varredura completa** do arquivo — 68 issues analisadas, 6 reais corrigidas, 62 falsos positivos
+
+### v0.6.2 | 07.06.26
+- **53 traduções novas:** BLUEPRINTS DESC/NAME (Walls Aqua/Sea/Waves/Nautical, Monument, Sculpture, Painting, Atmo Shoes, Balloon, Elegantbed, Gloves, Surfboard);
+- **Correção FROZENPHYTOOIL.DESC** — "Ovoleno Congelado" → "Óleo Fito Congelado" (texto completamente errado);
+- **Removido texto extra** em MILKINGSTATION.EFFECT;
+- **Corrigidos metadados PO** em 2 entries corrompidas (MINNOW_IMPERATIVE_POI_A, NEWBUILDCATEGORIES);
+- **Corrigidos `\n`** em 2 entries (CRITTERDRINKABLE_DESC, MILKINGSTATION.EFFECT);
+- **"Nisbet" → "Lisbet"** em PAINTING_WIDE_ART_VENUS.NAME;
+- **Regras atualizadas:** nunca adicionar texto extra, nunca copiar metadados PO, sempre mostrar preview antes de alterar;
+- **Varredura completa** do arquivo — 68 issues analisadas, 6 reais corrigidas, 62 falsos positivos.

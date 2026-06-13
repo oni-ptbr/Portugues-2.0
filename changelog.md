@@ -3,6 +3,7 @@
 - **Auditoria completa do strings.po** — varredura automatizada de 21.322 entradas ativas;
 - **Correção GRANTED_SKILL_NO_MORALE_COST** — `\n\n{0}\n{1}` extras removidos, capitalização de "Duplicante" corrigida;
 - **Correção POND.HEADER/SIZE** — "Dica" → "Tamanho do Viveiro", bullet `    • ` restaurado;
+- **"Sodicana" → "Cana de Sal"** — trocadilho com "Cana de Açúcar" para a planta da DLC Aquatic;
 - **Version bump** 0.6.2 → 0.6.3 (mod_info.yaml + strings de versão no jogo).
 
 ### v0.6.1-beta | 01.06.26

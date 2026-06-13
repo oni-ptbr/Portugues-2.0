@@ -1,4 +1,13 @@
 ## Changelog
+### v0.6.3b | 13.06.26
+- **7 correções estruturais no strings.po** baseadas em erros reportados pelo Player.log;
+- **Correção de texto duplicado** em TUNGSTENDISELENIDE.DESC e ZINCORE.DESC — última frase aparecia duas vezes;
+- **Correção de msgstr corrompida** em COLONYLACKSDUPEWITHMULTISKILLPERK.TOOLTIP_DLC3 — conteúdo extra e placeholders multiplicados removidos;
+- **Correção de links aninhadas** em CACTUSPLANT.DESC e GARDENDECORPLANT.DESC — `<link>` viraram irmãs como no original EN;
+- **Remoção de self-links extras** em BLEACHSTONE.DESC e PALMWOOD.DESC — tradução não deve adicionar `<link>` que não existe no original;
+- **Template oficial Klei verificado** — todos os msgids conferidos contra `strings_template.pot` oficial (build U59), 0 divergências;
+- **strings.mo + messages.mo recompilados** e sincronizados;
+
 ### v0.6.3 | 12.06.26
 - **Auditoria completa do strings.po** — varredura automatizada de 21.322 entradas ativas;
 - **Correção GRANTED_SKILL_NO_MORALE_COST** — `\n\n{0}\n{1}` extras removidos, capitalização de "Duplicante" corrigida;

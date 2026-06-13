@@ -7,9 +7,10 @@
 O mod **Português (BR)** é a versão mais atualizada de tradução BR para o *Oxygen Not Included*. O arquivo principal `strings.po` está **100% completo** — todo o conteúdo com texto em inglês foi traduzido para o português.
 
 **Status atual:** v0.6.3 | Junho de 2026
-- 21.141 entries traduzidas, 180 stubs vazios (Klei), 0 fuzzy
+- 21.141 entries traduzidas, 180 stubs vazios (Klei sem texto EN), 0 erros estruturais
 - DLC Aquatic traduzida completa
 - Scan de consistência aprovado: 0 erros de sintaxe, 0 links quebrados, 0 placeholders traduzidos
+- Template oficial Klei (U59) verificado — msgids 100% sincronizados
 
 Para instalar o mod, basta se inscrever e escolher o português nos idiomas do jogo ao abri-lo.
 A versão mais atual da tradução é a **v0.6.3**. Você pode verificar isso dentro do jogo aqui, nos números entre parênteses:
@@ -39,7 +40,7 @@ _Infelizmente, é provável que você tenha que repetir esse processo a cada nov
 
 ### **É importante ressaltar que a instalação manual NÃO adiciona um novo pacote de idioma ao seu jogo, e sim SUBSTITUI o idioma original do jogo pela tradução.**
 
-_Obs: O arquivo `strings.po` está completo — todo o texto disponível em inglês foi traduzido. As poucas entradas restantes (280) são stubs sem conteúdo original, e aparecerão em inglês no jogo normalmente._
+_Obs: O arquivo `strings.po` está completo — todo o texto disponível em inglês foi traduzido. As poucas entradas restantes (180) são stubs que a Klei ainda não preencheu com texto em inglês, e aparecerão em inglês no jogo normalmente._
 
 1. Primeiro, baixe o arquivo "strings_template.po" [AQUI](https://github.com/Matews200/Portugues-2.0.git);
 2. No diretório do jogo, acesse:  

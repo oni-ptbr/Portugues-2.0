@@ -1,4 +1,10 @@
 ## Changelog
+### v0.6.3 | 12.06.26
+- **Auditoria completa do strings.po** — varredura automatizada de 21.322 entradas ativas;
+- **Correção GRANTED_SKILL_NO_MORALE_COST** — `\n\n{0}\n{1}` extras removidos, capitalização de "Duplicante" corrigida;
+- **Correção POND.HEADER/SIZE** — "Dica" → "Tamanho do Viveiro", bullet `    • ` restaurado;
+- **Version bump** 0.6.2 → 0.6.3 (mod_info.yaml + strings de versão no jogo).
+
 ### v0.6.1-beta | 01.06.26
 - **176 fuzzy flags eliminadas** — de 175 para 0 (zero fuzzy ativo);
 - **Atualização pós-patch da Klei:** re-traduzidas 101 entradas afetadas por renomeações de blueprints e reestruturações;
@@ -131,14 +137,6 @@
 
 ### v0.0.1-alpha | 21.04.24
 - Primeira versão: 22% do jogo traduzido.
-
-### v0.6.2 | 07.06.26
-- **Correção FROZENPHYTOOIL.DESC** — "Ovoleno Congelado" → "Óleo Fito Congelado" (texto completamente errado)
-- **Removido texto extra** em MILKINGSTATION.EFFECT
-- **Corrigidos metadados PO** em 2 entries corrompidas (MINNOW_IMPERATIVE_POI_A, NEWBUILDCATEGORIES)
-- **Corrigidos `\n`** em 2 entries (CRITTERDRINKABLE_DESC, MILKINGSTATION.EFFECT)
-- **Regras atualizadas:** nunca adicionar texto extra, nunca copiar metadados PO
-- **Varredura completa** do arquivo — 68 issues analisadas, 6 reais corrigidas, 62 falsos positivos
 
 ### v0.6.2 | 07.06.26
 - **53 traduções novas:** BLUEPRINTS DESC/NAME (Walls Aqua/Sea/Waves/Nautical, Monument, Sculpture, Painting, Atmo Shoes, Balloon, Elegantbed, Gloves, Surfboard);

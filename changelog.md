@@ -1,4 +1,17 @@
 ## Changelog
+### v1.0 | 17.06.26
+- **Lançamento oficial** — fim da fase beta (última versão beta foi v0.6.3b);
+- **40 fuzzy flags limpas** (14 ativas + 26 obsoletas) — 0 fuzzies restantes;
+- **14 entradas corrigidas** do patch hotfix de 14/06 — novas traduções, links quebrados, terminologia padronizada;
+- **Novas traduções:** BUTTERFLY (recolheu as asas firmemente), JAWBOFOOD (Frutos do Mar Cozidos / Nhom nhom nhom!);
+- **Terminologia padronizada:** Aquatic rooms (CONFINED/OVERCROWDING_AQUATIC) → "tanque", Molt → "Concha" (caramujos) / "Casco" (pokeshells), Gildgo → Dourargo, Slogo Molt → "Concha de Lesmargo";
+- **Links corrigidos:** FISHFOOD → PACUSPECIES, SEATURTLE → TOXICMUD (Lama Poluída);
+- **Tags HTML quebradas reparadas:** `</size>` sem fechamento, `<style>` sem `</style>`;
+- **Correções ortográficas:** "Mìnimo" → "Mínimo", "Surahashi" → "Saruhashi";
+- **Respiração Subaquática:** texto de EFFECT corrigido — "ambientes sufocantes" em vez de "embaixo d'água", com remoção de requirements duplicados;
+- **strings.mo + messages.mo recompilados** e sincronizados com Proton/Linux.
+- **Version bump** 0.6.3 → 1.0 (mod_info.yaml + strings de versão no jogo).
+
 ### v0.6.3b | 13.06.26
 - **7 correções estruturais no strings.po** baseadas em erros reportados pelo Player.log;
 - **Correção de texto duplicado** em TUNGSTENDISELENIDE.DESC e ZINCORE.DESC — última frase aparecia duas vezes;

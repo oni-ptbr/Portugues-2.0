@@ -1,21 +1,18 @@
 # Tradução Português (BR) para Oxygen Not Included
 
-> _Tradução em **português brasileiro** para Oxygen Not Included. Inclui conteúdo do Pacote de Cosméticos de Neutrônio._
+> _Tradução em **português brasileiro** para Oxygen Not Included. Inclui conteúdo do Pacote Aquático._
 
 ## Sobre
 
 O mod **Português (BR)** é a versão mais atualizada de tradução BR para o *Oxygen Not Included*. O arquivo principal `strings.po` está **100% completo** — todo o conteúdo com texto em inglês foi traduzido para o português.
 
-**Status atual:** v0.6.3 | Junho de 2026
-- 21.141 entries traduzidas, 180 stubs vazios (Klei sem texto EN), 0 erros estruturais
+**Status atual:** v1.0 | Junho de 2026
 - DLC Aquatic traduzida completa
-- Scan de consistência aprovado: 0 erros de sintaxe, 0 links quebrados, 0 placeholders traduzidos
-- Template oficial Klei (U59) verificado — msgids 100% sincronizados
 
 Para instalar o mod, basta se inscrever e escolher o português nos idiomas do jogo ao abri-lo.
-A versão mais atual da tradução é a **v0.6.3**. Você pode verificar isso dentro do jogo aqui, nos números entre parênteses:
+A versão mais atual da tradução é a **v1.0** (lançamento oficial, fim da fase beta). Você pode verificar isso dentro do jogo aqui, nos números entre parênteses:
 
-![Versão do Mod](https://i.imgur.com/hbjTp2l.png)
+![Versão do Mod](https://i.imgur.com/ch7qQ2K.png)
 
 ## Meu jogo não atualiza para a versão atual da tradução 😓
 
